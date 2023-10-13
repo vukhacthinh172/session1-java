@@ -1,0 +1,9 @@
+# các keymap của công cụ intellij
++chayj uwsng dujng
+Shift + f10
++in ra màn hình consol
+ sout
+ + sao chép và dán
+ Ctrl+ D
+ + format code
+  crt + alt +L
